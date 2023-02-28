@@ -93,6 +93,7 @@ strong{
 .center img{
     opacity: 0.8;
     padding-top: 40px;
+    z-index: 1;
 }
 
 .columnleft{
