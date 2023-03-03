@@ -271,7 +271,6 @@ color: #bdbdc9;;
     justify-content: space-between;
     margin-right: 100px;
     
-    
 }
 .ui span{
     padding: 0px 90px;
@@ -283,6 +282,7 @@ color: #bdbdc9;;
     align-items: center;
     justify-content: space-between;
     margin-right: 100px;
+    margin-top: 10px;
 
     
 }
@@ -295,7 +295,7 @@ color: #bdbdc9;;
     align-items: center;
     justify-content: space-evenly;
     margin-right: 100px;
-    
+    margin-top: 10px;
 }
 .app span{
     padding: 0px 90px;
